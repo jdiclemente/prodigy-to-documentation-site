@@ -1,4 +1,4 @@
 * Universal search
 * Fix logo
-* Change hero
+* Change hero image
 * Edit index.md
