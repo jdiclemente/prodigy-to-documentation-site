@@ -35,7 +35,7 @@ const navigation = [
       { title: 'Class Scheduler', href: '/docs/neuralink-integration' },
       { title: 'Class Options', href: '/docs/class-options' },
       { title: 'Creating Assignments', href: '/docs/assignments' },
-      { title: 'Complete Class for User', href: '/docs/neuralink-integration' },
+      { title: 'Complete Class for User', href: '/docs/complete-class' },
       { title: 'Reporting Classes to NREMT', href: '/docs/neuralink-integration' },
       { title: 'Custom Training Plans', href: '/docs/neuralink-integration' }
 
