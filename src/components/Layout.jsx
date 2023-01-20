@@ -36,8 +36,9 @@ const navigation = [
       { title: 'Class Options', href: '/docs/class-options' },
       { title: 'Creating Assignments', href: '/docs/assignments' },
       { title: 'Complete Class for User', href: '/docs/complete-class' },
-      { title: 'Reporting Classes to NREMT', href: '/docs/import-to-nremt' },
-      { title: 'Custom Training Plans', href: '/docs/neuralink-integration' }
+      { title: 'Import Classes to NREMT', href: '/docs/import-to-nremt' },
+      { title: 'Training Plans', href: '/docs/training-plans' },
+      { title: 'Reporting', href: '/docs/reports' }
 
     ],
   },
