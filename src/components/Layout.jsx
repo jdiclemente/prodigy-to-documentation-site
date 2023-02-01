@@ -45,7 +45,7 @@ const navigation = [
   {
     title: 'Purchasing Prodigy',
     links: [
-      { title: 'How is Prodigy Purcahsed?', href: '/docs/cacheadvance-predict' },
+      { title: 'How is Prodigy Purcahsed?', href: '/docs/purchase' },
       { title: 'Using Handtevy', href: '/docs/cacheadvance-predict' },
       { title: 'Requiring my Providers to Take Single Classes', href: '/docs/cacheadvance-predict' }
 
