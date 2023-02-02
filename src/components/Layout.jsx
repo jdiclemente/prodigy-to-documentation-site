@@ -54,7 +54,7 @@ const navigation = [
   {
     title: 'Technical Questions',
     links: [
-      { title: 'Do you Have an API?', href: '/docs/how-to-contribute' },
+      { title: 'Do you Have an API?', href: '/docs/api' },
       { title: 'Is my Users Data Safe?', href: '/docs/architecture-guide' }
     ],
   },
