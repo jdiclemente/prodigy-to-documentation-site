@@ -40,8 +40,7 @@ const tags = {
     render: ({ src, poster }) => (
       <videoplayer>
         <video controls autoPlay={false} playsInline poster={poster}>
-                <source src={src} type="video/mp4"/>
-                      
+                <source src={src} type="video/mp4"/>          
         </video>
       </videoplayer>
     ),

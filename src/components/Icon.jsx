@@ -1,18 +1,18 @@
 import { useId } from 'react'
 import clsx from 'clsx'
 
-import { InstallationIcon } from '@/components/icons/InstallationIcon'
+import { PurchaseIcon } from '@/components/icons/PurchaseIcon'
 import { LightbulbIcon } from '@/components/icons/LightbulbIcon'
-import { PluginsIcon } from '@/components/icons/PluginsIcon'
-import { PresetsIcon } from '@/components/icons/PresetsIcon'
-import { ThemingIcon } from '@/components/icons/ThemingIcon'
+import { ClassIcon } from '@/components/icons/ClassIcon'
+import { UserIcon } from '@/components/icons/UserIcon'
+import { AssignIcon } from '@/components/icons/AssignIcon'
 import { WarningIcon } from '@/components/icons/WarningIcon'
 
 const icons = {
-  installation: InstallationIcon,
-  presets: PresetsIcon,
-  plugins: PluginsIcon,
-  theming: ThemingIcon,
+  purchase: PurchaseIcon,
+  user: UserIcon,
+  class: ClassIcon,
+  assign: AssignIcon,
   lightbulb: LightbulbIcon,
   warning: WarningIcon,
 }

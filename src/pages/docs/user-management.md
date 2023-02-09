@@ -4,6 +4,7 @@ description: Learn how to management users in your Prodigy account.
 ---
 
 The user tab on your Prodigy account will give you access to all of the features you need to management your users.
+{%videoplayer src="https://cdn.jwplayer.com/videos/FUaEXe2d-oKF7OKp9.mp4" poster="https://cdn.jwplayer.com/thumbs/FUaEXe2d-1920.jpg" /%}
 
 ---
 ## Adding users

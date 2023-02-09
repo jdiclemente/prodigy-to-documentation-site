@@ -57,4 +57,4 @@ We try our best to continually update Prodigy. When updates are made will will u
 
 {%figure src="/images/user-panel.png" atl="User Panel" /%}
 
-{%videoplayer src="https://cdn.jwplayer.com/videos/6aAjnUNP-oKF7OKp9.mp4" poster="https://cdn.jwplayer.com/thumbs/LKGVibBn-1920.jpg" /%}
+{%videoplayer src="https://cdn.jwplayer.com/manifests/FUaEXe2d.m3u8" poster="https://cdn.jwplayer.com/thumbs/LKGVibBn-1920.jpg" /%}

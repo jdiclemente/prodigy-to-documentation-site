@@ -1,7 +1,5 @@
 * Universal search
 * Fix logo
-* Link underline to cyan
-* Change icons on the index page
 * create a form for sales on bottom of purchasing, getting started, demo
 * mailing list registration on each page
   
@@ -10,5 +8,19 @@
 * reporting
 * handtevy
 * single class
-* API
 * Data safe
+
+## Videos
+* Full Demo
+* Certifications
+* Class Creation
+* Assignments
+* Complete class
+* Import to NREMT
+* Training plans
+* Reporting
+* Handtevy
+
+## Video Player
+* replace with hls
+* replace posters

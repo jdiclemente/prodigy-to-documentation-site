@@ -8,13 +8,13 @@ Learn how to get Prodigy up and running for your organiazation. {% .lead %}
 
 {% quick-links %}
 
-{% quick-link title="Purchase" icon="installation" href="/docs/purchase" description="Learn the process for purchasing Prodigy for your team or email" /%}
+{% quick-link title="Purchase" icon="purchase" href="/docs/purchase" description="Learn the process for purchasing Prodigy for your team or email" /%}
 
-{% quick-link title="Adding Users" icon="presets" href="/docs/user-management" description="The user tab on your Prodigy account will give you access to all of the features you need to management your users." /%}
+{% quick-link title="Adding Users" icon="user" href="/docs/user-management" description="The user tab on your Prodigy account will give you access to all of the features you need to management your users." /%}
 
-{% quick-link title="Creating Classes" icon="plugins" href="/docs/create-class" description="The power of Prodigy is the ability to mix your custom training with our huge catalog." /%}
+{% quick-link title="Creating Classes" icon="class" href="/docs/create-class" description="The power of Prodigy is the ability to mix your custom training with our huge catalog." /%}
 
-{% quick-link title="Assign a Class" icon="theming" href="/docs/assignments" description="Create your first assignment and get your users up and going with Prodigy." /%}
+{% quick-link title="Assign a Class" icon="assign" href="/docs/assignments" description="Create your first assignment and get your users up and going with Prodigy." /%}
 
 {% /quick-links %}
 
