@@ -1,7 +1,7 @@
 * Universal search
 * Fix logo
-* create a form for sales on bottom of purchasing, getting started, demo
-* mailing list registration on each page
+* Form on demo
+* Support form
   
 ## Pages
 * class scheduler

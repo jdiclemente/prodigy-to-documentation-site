@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import { slugifyWithCounter } from '@sindresorhus/slugify'
+import '../styles/globals.css'
 
 import { Layout } from '@/components/Layout'
 
