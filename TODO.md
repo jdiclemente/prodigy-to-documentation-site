@@ -6,7 +6,7 @@
 ## Pages
 * class scheduler
 * reporting
-* handtevy
+* handtevy - Finish reporting
 * single class
 * Data safe
 
@@ -19,7 +19,6 @@
 * Import to NREMT
 * Training plans
 * Reporting
-* Handtevy
 
 ## Video Player
 * replace with hls

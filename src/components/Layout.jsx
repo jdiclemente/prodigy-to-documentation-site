@@ -38,7 +38,7 @@ const navigation = [
       { title: 'Complete Class for User', href: '/docs/complete-class' },
       { title: 'Import Classes to NREMT', href: '/docs/import-to-nremt' },
       { title: 'Training Plans', href: '/docs/training-plans' },
-      { title: 'Reporting', href: '/docs/reports' }
+      { title: 'Reporting', href: '/docs/reporting' }
 
     ],
   },
@@ -46,7 +46,7 @@ const navigation = [
     title: 'Purchasing Prodigy',
     links: [
       { title: 'How is Prodigy Purcahsed?', href: '/docs/purchase' },
-      { title: 'Using Handtevy', href: '/docs/cacheadvance-predict' },
+      { title: 'Using Handtevy', href: '/docs/handtevy' },
       { title: 'Requiring my Providers to Take Single Classes', href: '/docs/cacheadvance-predict' },
       { title: 'Contact Sales', href: '/docs/contactSales' },
 
