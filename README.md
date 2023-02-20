@@ -47,6 +47,8 @@ To learn more about the technologies used in this site template, see the followi
 - [Markdoc](https://markdoc.io) - the official Markdoc documentation
 - [DocSearch](https://docsearch.algolia.com) - the official DocSearch documentation
 
+## Custom Tags
+
 {% callout type="warning" title="Oh no! Something bad happened!" %}
 This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
 {% /callout %}
@@ -57,4 +59,4 @@ We try our best to continually update Prodigy. When updates are made will will u
 
 {%figure src="/images/user-panel.png" atl="User Panel" /%}
 
-{%videoplayer src="https://cdn.jwplayer.com/manifests/FUaEXe2d.m3u8" poster="https://cdn.jwplayer.com/thumbs/LKGVibBn-1920.jpg" /%}
+{%videoplayer src="VIDEO.URL" poster="POSTER.URL" /%}
