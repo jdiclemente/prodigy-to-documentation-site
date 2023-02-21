@@ -1,10 +1,10 @@
 ---
-title: Prodigy API
-description: What systems can be integrated with Prodigy?
+title: Reporting
+description: We cover the most popular reporting features of Prodigy.
 ---
 
-We often get requested to link other systems with Prodigy to make the user experience better.
-
+This article will walk you through our standard reports in Prodigy, we can build custom reports as well, reach out to our support team to learn more. 
+{%videoplayer src="https://cdn.jwplayer.com/videos/vdmJnNXG-oKF7OKp9.mp4" poster="https://s3.amazonaws.com/media.prodigyems.com/images/docs-video-posters/reporting.png" /%}
 ---
 ## Reports
 ## Training Plan Progress
