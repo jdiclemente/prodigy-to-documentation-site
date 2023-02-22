@@ -32,7 +32,6 @@ const navigation = [
     title: 'Training Management',
     links: [
       { title: 'Creating Classes', href: '/docs/create-class' },
-      { title: 'Class Scheduler', href: '/docs/neuralink-integration' },
       { title: 'Class Options', href: '/docs/class-options' },
       { title: 'Creating Assignments', href: '/docs/assignments' },
       { title: 'Complete Class for User', href: '/docs/complete-class' },
@@ -47,7 +46,6 @@ const navigation = [
     links: [
       { title: 'How is Prodigy Purcahsed?', href: '/docs/purchase' },
       { title: 'Using Handtevy', href: '/docs/handtevy' },
-      { title: 'Requiring my Providers to Take Single Classes', href: '/docs/cacheadvance-predict' },
       { title: 'Contact Sales', href: '/docs/contactSales' },
 
     ],
@@ -56,7 +54,8 @@ const navigation = [
     title: 'Technical Questions',
     links: [
       { title: 'Do you Have an API?', href: '/docs/api' },
-      { title: 'Is my Users Data Safe?', href: '/docs/architecture-guide' }
+      { title: 'Is my Users Data Safe?', href: '/docs/data-safe' },
+      { title: 'Contact Support', href: '/docs/contactSupport' }
     ],
   },
 ]

@@ -150,3 +150,14 @@ a.button2:active {
     width: 35em;
   }
 }
+
+.hs-field-desc {
+  font-size: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+.hs-fieldtype-textarea {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}

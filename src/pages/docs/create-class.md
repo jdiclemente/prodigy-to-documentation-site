@@ -10,6 +10,13 @@ This guide will walk you through all the features of our class builder. It’s a
 Whether you are creating a Live course and only using Prodigy for tracking, a Live or Virtual Live course that you are using Prodigy for registration, or a distributive course. You will use this class builder to create the class for all of these scenarios.
 {% /callout %}
 
+## What can class registration and creation handle?
+* Offer a distributive class that is created on Prodigy.
+* Offer a virtual live class where users register on Prodigy and complete a quiz once complete.
+* Run a class that is available as in person live, where users register through Prodigy. After which you can choose to either require a quiz or simply mark the user as complete if they attend.
+* Use Prodigy as a roster system only for a live class, registeration can be handled off the sites and the attendance and completion is simply tracked in Prodigy.
+* Run a class live which is recorded and later also offered a distributive class.
+* Any combination of distributive/virtual live/in person live where you either require a quiz or not and where registration is either handled by Prodigy or a different system.
 ## Creating a Class
 There are lots of options when creating a class but our goal was to make the process simple and only require you to use the features that you need. We are not using a standard class authoring tool like SCORM, frankly, those tools are outdated and don’t allow the same level of functionality and flexibility as our tool. They also don’t handle video well which makes building a modern class difficult. 
 

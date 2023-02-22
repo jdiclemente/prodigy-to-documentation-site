@@ -3,12 +3,12 @@ title: Full Demo
 description: This guide will provide a full overview of Prodigy.
 ---
 
-This video includes an entire recorded demo of the Prodigy system. We start off with a quick recap of user functions and move in to all of the administrative functions of Prodigy.
+This video includes an entire recorded demo of the Prodigy system. We start off with a quick recap of user functions and move in to all of the administrative functions of Prodigy. Use this calander link to [schedule your demo](https://meetings.hubspot.com/ryan1574) today, or you can reach out to [Sales@prodigyems.com](mailto:Sales@prodigyems.com)
 
 ---
 
 ## Video
-
+{%videoplayer src="https://cdn.jwplayer.com/videos/ZACPRtRs-oKF7OKp9.mp4" poster="https://s3.amazonaws.com/media.prodigyems.com/images/docs-video-posters/assignments.png" /%}
 This video was published on **January 5th, 2023**
 
 ## updates
