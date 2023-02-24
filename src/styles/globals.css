@@ -161,3 +161,18 @@ a.button2:active {
   margin-bottom: 0;
   padding-bottom: 0;
 }
+
+.ponlylogo .dark {
+}
+
+.cls-1 {
+  fill: #649fab;
+}
+.cls-2 {
+  fill: #152337;
+  opacity: 0.99;
+}
+.dark .cls-2 {
+  fill: #ffffff;
+  opacity: 0.99;
+}
