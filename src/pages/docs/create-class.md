@@ -14,7 +14,7 @@ Whether you are creating a Live course and only using Prodigy for tracking, a Li
 * Offer a distributive class that is created on Prodigy.
 * Offer a virtual live class where users register on Prodigy and complete a quiz once complete.
 * Run a class that is available as in person live, where users register through Prodigy. After which you can choose to either require a quiz or simply mark the user as complete if they attend.
-* Use Prodigy as a roster system only for a live class, registeration can be handled off the sites and the attendance and completion is simply tracked in Prodigy.
+* Use Prodigy as a roster system only for a live class, registration can be handled off the sites and the attendance and completion is simply tracked in Prodigy.
 * Run a class live which is recorded and later also offered a distributive class.
 * Any combination of distributive/virtual live/in person live where you either require a quiz or not and where registration is either handled by Prodigy or a different system.
 ## Creating a Class
@@ -30,7 +30,7 @@ If you need to edit a published class or complete a class in draft, you can clic
 This page is where you will set basic information such as name, description, and image. You will also choose what type of class you are offering and the duration.
 ### Basic Information
 {%figure src="/images/basic-class-details.png" atl="Add Class" /%}
-* **Class Name** - This will be what shows up in the catalog, transcripts, certificates, and training plans. The charecter limits are listed below the input.
+* **Class Name** - This will be what shows up in the catalog, transcripts, certificates, and training plans. The character limits are listed below the input.
 * **Headline** - This is the short description that shows up in the class catalog..
 * **Description** - The description is what shows up on the class page. There is no character limit, this allows for rich text editing. You can add links, text styling, images, and more to give this section a landing page feel.
 * **Class Image** - This will show up on both the class page and catalog. The image will be scaled to fit both areas, but the recommended size is listed below the input. You can drag and drop an image or click the box to upload.
@@ -61,7 +61,7 @@ This allows you to upload a video that is hosted on the Prodigy site. Uploading 
 * **Upload Video** - Drag and drop your video or click the box to find it.
 * **Overview** - Description that appears under the video
 * **Prevent Seeking** - If checked, users will be required to watch the complete video. If unchecked, users can scrub through the video to complete
-* **Play Content Automatically** - If checked, videos will auto play. When one video ends, the next will immediatly start. If unchecked, the user will need to press play for each video. 
+* **Play Content Automatically** - If checked, videos will auto play. When one video ends, the next will immediately start. If unchecked, the user will need to press play for each video. 
 {% callout title="Auto-play" %}
 Auto-play is not supported by all browsers, but if you leave it unchecked, the user will always have to hit play. It is only the auto-play feature that is not supported.
 {% /callout %}
@@ -91,7 +91,7 @@ Adding an external link will require that your user goes to that link as part of
 A Check-in Quiz is a quiz that can occur at any point in the class and is treated like any other segment. Once complete you receive credit, there is no passing score for a check-in quiz. These quizzes have all the features of a standard quiz which are discussed in depth later in the help article. 
 ## Live Classes
 {%figure src="/images/add-live.png" atl="Add Class" /%}
-Prodigy supports scheduling both traditional in-person live classes as well as virtual live classes. The setting for both will largely be the same except for a few options. When registering, users whill see the type of live class as well as remaining seats.
+Prodigy supports scheduling both traditional in-person live classes as well as virtual live classes. The setting for both will largely be the same except for a few options. When registering, users will see the type of live class as well as remaining seats.
 {%figure src="/images/register-live.png" atl="Add Class" /%}
 * **Date** - Date the class will be running
 * **Start** - Start time of the class. The timezone will automatically be selected based on your local timezone. The users will see the class schedule in there local timezone as well.

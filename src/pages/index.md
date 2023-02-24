@@ -4,7 +4,7 @@ pageTitle: Prodigy - Get the most out of your Prodigy system.
 description: Your Prodigy account includes powerful tools to help with your training management.
 ---
 
-Learn how to get Prodigy up and running for your organiazation. {% .lead %}
+Learn how to get Prodigy up and running for your organization. {% .lead %}
 
 {% quick-links %}
 
@@ -18,12 +18,12 @@ Learn how to get Prodigy up and running for your organiazation. {% .lead %}
 
 {% /quick-links %}
 
-This quickstart guide will give you a briefe overview of Prodigy. See the individual help articles for an in deapth review of each features or watch the full demo to see all of the features.
+This quick start guide will give you a brief overview of Prodigy. See the individual help articles for an in depth review of each features or watch the full demo to see all of the features.
 
 ---
 
 ## Quick start
-We designed Prodigy to get you going quickly. When you are ready to purcahse, reach out to [Sales@prodigyems.com](mailto:Sales@prodigyems.com) and we will get your account ready to go.
+We designed Prodigy to get you going quickly. When you are ready to purchase, reach out to [Sales@prodigyems.com](mailto:Sales@prodigyems.com) and we will get your account ready to go.
 
 ### Adding Users
 The first step is to add your users. You have 3 options to get started: invite all of your users, create each user account, or upload a list of users. Once the accounts are created, users will have immediate access to their new Prodigy account.
@@ -35,7 +35,7 @@ The best next step after getting users in the system is assigning a class. The a
 
 ---
 ## Customize Prodigy
-Now that you have all the accounts created and everyone is in, you can add some custimization. Your team will login and see a great mix of your own material and ours and it will make your training management easier. Don't have time to customize? Don't worry. We inlcude everything you need to make sure your team has everything they need to stay compliant and up-to-date with best practices. 
+Now that you have all the accounts created and everyone is in, you can add some customization. Your team will login and see a great mix of your own material and ours and it will make your training management easier. Don't have time to customize? Don't worry. We include everything you need to make sure your team has everything they need to stay compliant and up-to-date with best practices. 
 
 ### Add a Class
 Use our [class builder](/docs/create-class) to get your custom content in the system. This doesn't need to be a fully created class. Find a great podcast or online video, add a quiz and you have your first custom class. 
@@ -49,4 +49,4 @@ Do you have certification that you track that aren't in the system? No problem, 
 
 ---
 ## Getting help
-Although we try and make Prodigy as easy to use as possible, occasionally you need help or need to report an issue with the site. You can email [Support@prodigyems.com](mailto:Support@prodigyems.com) or click the chat icon on the Prodigy page to get help. We may have a live agent available for support, otherwise, you will receive an email reposnse with the support you were looking for. 
+Although we try and make Prodigy as easy to use as possible, occasionally you need help or need to report an issue with the site. You can email [Support@prodigyems.com](mailto:Support@prodigyems.com) or click the chat icon on the Prodigy page to get help. We may have a live agent available for support, otherwise, you will receive an email response with the support you were looking for. 

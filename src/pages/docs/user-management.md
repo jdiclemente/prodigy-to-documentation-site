@@ -34,7 +34,7 @@ If an email address is already in use, even if not in your account, the system w
 {%figure src="/images/user-reporting.png" atl="User Panel" /%}
 From the users tab, you can see a table of all users in your account and export the current view by clicking export in the top right. You can filter this list by Role, Status, and Group.  
 
-## Indivdual User Records
+## Individual User Records
 {%figure src="/images/individual-user.png" atl="User Panel" /%}
 Click on a user from the Users tab to get to their individual record. From here, you can see their training plans and full transcript. From their transcript, you can export individual certificates for your records. You can send them a password reset and change their role within the department. The Employee ID field is used by departments that have set up single sign on, SSO, with us. If your department is interested in integrating Prodigy with other software, please reach out to support@prodigyems.com. You can add and remove individual users from groups from this section.
 

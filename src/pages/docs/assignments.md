@@ -3,7 +3,7 @@ title: Creating Assignments
 description: This guide will walk you through the assignment functions in Prodigy
 ---
 
-This guide will walk you through creating assignements and reporting on creating assignments.
+This guide will walk you through creating assignments and reporting on creating assignments.
 {%videoplayer src="https://cdn.jwplayer.com/videos/ZACPRtRs-oKF7OKp9.mp4" poster="https://s3.amazonaws.com/media.prodigyems.com/images/docs-video-posters/assignments.png" /%}
 ---
 ## Create Assignment
@@ -17,7 +17,7 @@ When you create an assignment each user will get an email alerting them of the a
 1. You can select from individual users or all users, if using group selection, this would select all users in that group. You can also search for users.
 1. This box allows you to remove users form the list who have already completed the class in the last year. 
 
-{% callout title="Exlude Completions" %}
+{% callout title="Exclude Completions" %}
 The option to exclude users that completed in the last 12 months options filters the list that you see. You should check this box first and then select the users you want to assign the class to. 
 {% /callout %}
 ## Managing Assignments
