@@ -7,11 +7,11 @@ Groups allow you to more easily report, assign classes, and add training plans t
 
 ---
 ## Groups
-Groups serve 3 main functions in Prodigy, a user can be in multiple groups but dose need to be in a group.
+Groups serve 3 main functions in Prodigy, a user can be in multiple groups but does not need to be in any groups.
 ### Training Plans and Groups
-Department training plans are applied to users based on groups. When a custom training plan is built, it will be assigned to a group. When a user is added to a group with a training plan assigned to it, the user will immediately be able to access that plan from their training plans tab. 
+Organizational training plans are applied to users based on groups. When a custom training plan is built, it will be assigned to a group. When a user is added to a group with a training plan assigned to it, the user will immediately be able to access that plan from their training plans tab. 
 ### User Tab Filtering
-The user table can be filtered based on groups. This allows you to more easily manage large groups of users.
+The user table can be filtered based on groups, this allows you to more easily manage large groups of users.
 ### Class Assignments
 When assigning classes, you can filter your list by groups. This will allow you to easily assign a class to an entire group. You may want to assign a class to all Paramedics or all FTOs, this becomes much easier with groups. 
 ## Creating a Group

@@ -8,13 +8,13 @@ Learn how to get Prodigy up and running for your organization. {% .lead %}
 
 {% quick-links %}
 
-{% quick-link title="Purchase" icon="purchase" href="/docs/purchase" description="Learn the process for purchasing Prodigy for your team or email" /%}
+{% quick-link title="Purchase" icon="purchase" href="/docs/purchase" description="Our pricing aims to provide you with exceptional training at an affordable price." /%}
 
-{% quick-link title="Adding Users" icon="user" href="/docs/user-management" description="The user tab on your Prodigy account will give you access to all of the features you need to management your users." /%}
+{% quick-link title="Adding Users" icon="user" href="/docs/user-management" description="The user tab on your Prodigy account will give you access to all of the features you need to manage your staff." /%}
 
 {% quick-link title="Creating Classes" icon="class" href="/docs/create-class" description="The power of Prodigy is the ability to mix your custom training with our huge catalog." /%}
 
-{% quick-link title="Assign a Class" icon="assign" href="/docs/assignments" description="Create your first assignment and get your users up and going with Prodigy." /%}
+{% quick-link title="Assign a Class" icon="assign" href="/docs/assignments" description="Create your first assignment and get your users up and running with Prodigy." /%}
 
 {% /quick-links %}
 
@@ -31,11 +31,11 @@ The first step is to add your users. You have 3 options to get started: invite a
 Our recommended option is to invite users individually to Prodigy. When you choose to invite users, they will receive an email asking them to join your department. If they don’t have an account they will be prompted to create one. If they have an account (even if it’s a different email address) they can connect it to your department.
 {% /callout %}
 ### Assign a Class
-The best next step after getting users in the system is assigning a class. The assignment will give users a second email alerting them to their new account, make sure that all users are getting emails, and get the everyone to sign in to their new account. 
+The best next step after getting users in the system is assigning a class. The assignment will give users a second email alerting them to their new account, make sure that all users are getting emails, and gets everyone to sign in to their new account. 
 
 ---
 ## Customize Prodigy
-Now that you have all the accounts created and everyone is in, you can add some customization. Your team will login and see a great mix of your own material and ours and it will make your training management easier. Don't have time to customize? Don't worry. We include everything you need to make sure your team has everything they need to stay compliant and up-to-date with best practices. 
+Now that you have all the accounts created and everyone is in, you can add some customization. Your team will login and see a great mix of your own material and ours and it will make your training management easier. Don't have time to customize? Don't worry. We include everything you need to make sure your team has what they need to stay compliant and up-to-date with best practices. 
 
 ### Add a Class
 Use our [class builder](/docs/create-class) to get your custom content in the system. This doesn't need to be a fully created class. Find a great podcast or online video, add a quiz and you have your first custom class. 
@@ -45,7 +45,7 @@ Use our [class builder](/docs/create-class) to get your custom content in the sy
 [Training plans](/docs/training-plans) are a great way to organize your training. Whether it's a new employee plan, annual training, or resuscitation training; you can organize your training and issue it out with one click (maybe two).
 
 ### Add Custom Certifications
-Do you have certification that you track that aren't in the system? No problem, we can get those added and allow you to track the training and certifications YOU need.
+Do you have certifications that you track that aren't in the system? No problem, we can get those added and allow you to track the training and certifications YOU need.
 
 ---
 ## Getting help
