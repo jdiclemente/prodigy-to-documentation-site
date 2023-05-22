@@ -4,7 +4,7 @@ description: Learn how to create an class for your account.
 ---
 
 This guide will walk you through all the features of our class builder. It’s a long guide and we would suggest you watch the video as well. If you are a training officer for multiple departments, you will only need to create a class once and you can then share it with your other departments. Classes that are added here can only be seen by users in your account.
-
+{%videoplayer src="https://content.jwplatform.com/videos/1yw7from-oKF7OKp9.mp4" poster="https://s3.amazonaws.com/media.prodigyems.com/images/docs-video-posters/create+class.png" /%}
 ---
 {% callout title="Class Take Types" %}
 Whether you are creating a Live course and only using Prodigy for tracking, a Live or Virtual Live course that you are using Prodigy for registration, or a distributive course. You will use this class builder to create the class for all of these scenarios.
@@ -15,12 +15,12 @@ Whether you are creating a Live course and only using Prodigy for tracking, a Li
 * Offer a virtual live class where users register on Prodigy and complete a quiz once complete.
 * Run a class that is available as in person live, where users register through Prodigy. After which you can choose to either require a quiz or simply mark the user as complete if they attend.
 * Use Prodigy as a roster system only for a live class, registration can be handled off the sites and the attendance and completion is simply tracked in Prodigy.
-* Run a class live which is recorded and later also offered a distributive class.
+* Run a class live which is recorded and later offered as a distributive class.
 * Any combination of distributive/virtual live/in person live where you either require a quiz or not and where registration is either handled by Prodigy or a different system.
 ## Creating a Class
 There are lots of options when creating a class but our goal was to make the process simple and only require you to use the features that you need. We are not using a standard class authoring tool like SCORM, frankly, those tools are outdated and don’t allow the same level of functionality and flexibility as our tool. They also don’t handle video well which makes building a modern class difficult. 
 
-To add a class, start off by going to the Classes tab from your training officer account and click Add Class. Once you are done with a page, you can click Continue to go to the next page or choose Save as Draft to come back and finish it later.
+To add a class, start off by going to the Classes tab from your training officer account and click Add Class. 
 {%figure src="/images/add-class.png" atl="Add Class" /%}
 
 {% callout title="Editing a Class" %}
@@ -53,7 +53,7 @@ Class tags are a great way to organize your classes. They become part of the fre
 From this section, you will create sections and add segments. Sections are a way to organize content and help your users understand the class flow. A section will automatically calculate duration. To add a section, click the Add Section button. To add a segment click Add Content. The duration of the class is calculated based on the duration of each segment.
 {%figure src="/images/segment-section.png" atl="Add Class" /%}
 Once you click Add Content, the list of segment types will come up, select your segment type from here.
-{%figure src="/images/segment-types.png" atl="Add Class" /%}
+{%figure src="/images/segment_types_v2.png" atl="Add Class" /%}
 ### Upload Video
 This allows you to upload a video that is hosted on the Prodigy site. Uploading to Prodigy will give you more video options as well as take advantage of our powerful content delivery network which creates a modern video experience for your users. The duration of an uploaded video segment is automatically calculated.
 {%figure src="/images/upload-video.png" atl="Add Class" /%}
@@ -67,7 +67,7 @@ Auto-play is not supported by all browsers, but if you leave it unchecked, the u
 {% /callout %}
 {%figure src="/images/name-overview.png" atl="Add Class" /%}
 ### Video Link
-Add a link to a video hosted on YouTube. Because the video is hosted externally, you lose the ability to prevent seeking and prevent auto-play. The duration of an video link segment is automatically calculated.
+Add a link to a video hosted on YouTube. Because the video is hosted externally, you lose the ability to prevent seeking and prevent auto-play. The duration of a video link segment is automatically calculated.
 {%figure src="/images/video-link.png" atl="Add Class" /%}
 * **Content Name** - This is the segment name and will show up on the class player page
 * **Video Link** - This needs to be the full proper URL to the video.
@@ -76,9 +76,9 @@ Add a link to a video hosted on YouTube. Because the video is hosted externally,
 Only post links to videos that are either public or private videos that you have specific permission to post.
 {% /callout %}
 ### Upload Audio
-The options in this segment are the same as uploaded videos and are designed to upload auto files to be used within a class. This includes the options to prevent seeking and auto-play. The duration of an uploaded video segment is automatically calculated.
+The options in this segment are the same as uploaded videos and are designed to upload auto files to be used within a class. This includes the options to prevent seeking and auto-play. The duration of an uploaded audio segment is automatically calculated.
 ### Audio Link
-This segment type is similar to an outside video. You can set prevent seeking and have the option to set auto-play. The common use for this segment type is to add a podcast directly into a class. If prevent seeking is unchecked, the user will have the option to click a button attesting to listening to the podcast off the site and bypassing listening on the Prodigy. If prevent seeking is clicked, this button is not present. The duration of an audio link segment is automatically calculated.
+This segment type is similar to an outside video. You can set prevent seeking and have the option to set auto-play. The common use for this segment type is to add a podcast directly into a class. If prevent seeking is unchecked, the user will have the option to click a button attesting to listening to the podcast off the site and bypassing listening on Prodigy. The duration of an audio link segment is automatically calculated.
 {%figure src="/images/audio-link.png" atl="Add Class" /%}
 {%figure src="/images/skip-podcast.png" atl="Add Class" /%}
 ### Upload a Document
@@ -94,7 +94,7 @@ A Check-in Quiz is a quiz that can occur at any point in the class and is treate
 Prodigy supports scheduling both traditional in-person live classes as well as virtual live classes. The setting for both will largely be the same except for a few options. When registering, users will see the type of live class as well as remaining seats.
 {%figure src="/images/register-live.png" atl="Add Class" /%}
 * **Date** - Date the class will be running
-* **Start** - Start time of the class. The timezone will automatically be selected based on your local timezone. The users will see the class schedule in there local timezone as well.
+* **Start** - Start time of the class. The timezone will automatically be selected based on your local timezone. The users will see the class schedule in their local timezone as well.
 * **End** - Automatically calculated based on the start time and class duration.
 * **Class Seats** - Number of students allowed to register, the available seats will be displayed to the user. You can also allow for unlimited seats.
 {%figure src="/images/schedule.png" atl="Add Class" /%}
