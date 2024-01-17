@@ -1,9 +1,9 @@
 ---
-title: Creating Assignments
+title: Class Assignments
 description: This guide will walk you through the assignment functions in Prodigy
 ---
 
-This guide will walk you through creating assignments and reporting on creating assignments.
+This guide will walk you through creating class assignments and reporting on class assignments.
 {%videoplayer src="https://cdn.jwplayer.com/videos/ZACPRtRs-oKF7OKp9.mp4" poster="https://s3.amazonaws.com/media.prodigyems.com/images/docs-video-posters/assignments.png" /%}
 ---
 ## Create Assignment
