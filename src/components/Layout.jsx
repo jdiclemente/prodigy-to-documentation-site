@@ -33,6 +33,9 @@ const navigation = [
     title: 'Training Management',
     links: [
       { title: 'Creating Classes', href: '/docs/create-class' },
+      { title: 'Edit Classes', href: '/docs/edit-class' },
+      { title: 'Certificate Templates', href: '/docs/certificate-templates' },
+      { title: 'Survey Builder', href: '/docs/survey-builder' },
       { title: 'Class Options', href: '/docs/class-options' },
       { title: 'Training Plan Builder', href: '/docs/training-plan-builder' },
       { title: 'Training Plans', href: '/docs/training-plans' },

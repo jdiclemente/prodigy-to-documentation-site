@@ -20,11 +20,11 @@ Whether you are creating a Live course and only using Prodigy for tracking, a Li
 ## Creating a Class
 There are lots of options when creating a class but our goal was to make the process simple and only require you to use the features that you need. We are not using a standard class authoring tool like SCORM, frankly, those tools are outdated and don’t allow the same level of functionality and flexibility as our tool. They also don’t handle video well which makes building a modern class difficult. 
 
-To add a class, start off by going to the Classes tab from your training officer account and click Add Class. 
+To add a class, start off by going to the **Classes menu and choosing Manage** from your training officer account and click Add Class. 
 {%figure src="/images/add-class.png" atl="Add Class" /%}
 
 {% callout title="Editing a Class" %}
-If you need to edit a published class or complete a class in draft, you can click the Organization Class tab. Once there, click on the name of a course and you will be brought in to the same editor we will discuss for new classes.
+If you need to edit a published class or complete a class in draft, you can click the Organization Class tab. Once there, click on the name of a course and you will be brought in to the editor.
 {% /callout %}
 ## Class Details Page
 This page is where you will set basic information such as name, description, and image. You will also choose what type of class you are offering and the duration.
@@ -40,7 +40,7 @@ This page is where you will set basic information such as name, description, and
 The take type allows you to choose how you will be offering this class. You can choose either one or both of the take types.
 * **Distributive** - Traditional online class, if selected you will be able to add different segments to the class as well as a post-class test.
 * **Live** - Live is used for both traditional live classes as well as virtual live classes. 
-{%figure src="/images/class-details-advanced.png" atl="Add Class" /%}
+{%figure src="/images/visibility.png" atl="Add Class" /%}
 {% callout title="Editing Take Types" %}
 You can always come back and add additional take types. You may run a live class and record it; you can come back after and make the class distributive and add that video to the class. All the options on the class builder can be edited after a class is released. 
 {% /callout %}
@@ -48,6 +48,11 @@ You can always come back and add additional take types. You may run a live class
 Set the total length of the class. This is what is displayed on the class page and counted on training plans, we also calculate each segment length and list the true duration of a class for distributive classes. If building a distributive class, you can come back and edit this number after the class segments are added and calculated. If you select a class as Non-Credit, it will not be counted as an elective class on recertification plans, but can be added to custom training plans.
 ### Class Tags
 Class tags are a great way to organize your classes. They become part of the free text search in the catalog and are displayed on the class page. The most common use is to add a search term to a class that may not be in the name or description. For instance, you may tag all BLS classes with BLS and EMT, this allows users to more easily find classes appropriate to their scope of practice.
+### Class Visibility
+This section allows you to control when users are able to see your class and give you three options.
+* Visible - This is a standard class that can be seen by all users in the class catalog and is the default.
+* Hidden - The class is technical open but is not in the catalog. The most common use case for this option is to have a class that is on a training plan but you don't want it in the class catalog. You can also send a direct link for the class.
+* Assigned Only - When this is selected, only users who have been assigned the class by a training officer can view it. They must be assigned the class directly and not a training plan with the class.
 ## Distributive Class Content 
 {%figure src="/images/distributive-content.png" atl="Add Class" /%}
 From this section, you will create sections and add segments. Sections are a way to organize content and help your users understand the class flow. A section will automatically calculate duration. To add a section, click the Add Section button. To add a segment click Add Content. The duration of the class is calculated based on the duration of each segment.
@@ -106,6 +111,17 @@ When scheduling an in-person live class, the only change in options is the avail
 ### Editing Live Sessions
 If you click the 3 dots on a live session card you will be given the option to **edit, delete, or duplicate** that session. 
 {%figure src="/images/edit-live.png" atl="Add Class" /%}
+## State Continuing Education Number
+{%figure src="/images/state_numbers.png" atl="Add Class" /%}
+This section allows you to add state or local continuing education numbers to your class. You can also add numbers that you previously entered. Once added, these number will show up automatically on the certificates for your class.
+{%figure src="/images/add-state-number.png" atl="Add Class" /%}
+You can add as many states and numbers as you need for each course. Select the state and add the corresponding number assigned to it. 
+## Certificate Template
+This section allows you to select which certificate template to use for the class. If you don't have one created, you can use the default Prodigy certificate. Please review [this article](/docs/certificate-templates) on creating class certificate templates.
+{%figure src="/images/certificate-templates.png" atl="Add Class" /%}
+## Post Completion Survey Template
+You can associate a survey with each class. The surveys are built using our [survey builder](/docs/survey-builder) and can be used in multiple classes. You are not required to associate a survey with each class.
+{%figure src="/images/select-survey.png" atl="Add Class" /%}
 ## Class Quiz
 The final step in creating a class is making a quiz. Each class will need a quiz at the end that the user will need to pass in order to get through the class. If you are building a class but don’t specifically need a graded quiz, you can add an attestation where the user selects “Yes” to a question about completing all the material. All of the quiz setting you will see here can also be applied to check in quizzes. To get started, click **Add Quiz Question**.
 {%figure src="/images/add-question.png" atl="Add Class" /%}
@@ -118,14 +134,14 @@ Each question will have several options you can select to help build a quiz. For
 #### Adding Images and Videos
 You can add images and videos to a question as well as the answers. Click the **Upload File** button to upload. These are great ways to enhance a question and make a quiz more dynamic. 
 #### Feedback
-The feedback section allows you to add in information that will be presented to the users after the quiz is complete. This information will be presented regardless of whether they responded correctly. Many systems will only display this information if the student gets the question wrong, but we want all users to understand why you selected a particular correct answer.  
-{%figure src="/images/add-new-question.png" atl="Add Class" /%}
+The feedback section allows you to add in information that will be presented to the users after the quiz is complete. This information will be presented regardless of whether they responded correctly. Many systems will only display this information if the student gets the question wrong, but we want all users to understand why you selected a particular correct answer. This is a rich text area and can include links, images, and formatted text.  
+{%figure src="/images/feedback.png" atl="Add Class" /%}
 #### Editing Questions
 To **reorder** questions, grab the area next to the question number and drag and drop the questions in the correct order. There is a trashcan icon in the top right which is used to **delete** a question. 
 {%figure src="/images/edit-question.png" atl="Add Class" /%}
 #### Quiz Options
-To add a new question, click the **Add Quiz Question** button. The **Passing Score** represents the required total score for a user to pass a quiz, the default is 80%.  If you want each user to see the questions presented in a random order, click the **Shuffle Quiz Questions** option.
-{%figure src="/images/quiz-options.png" atl="Add Class" /%}
+To add a new question, click the **Add Quiz Question** button. The **Passing Score** represents the required total score for a user to pass a quiz, the default is 80%.  If you want each user to see the questions presented in a random order, click the **Shuffle Quiz Questions** option. If you choose **Hide correct answers in results**, the student will see their score but not the correct answers.
+{%figure src="/images/quiz-options-feedback.png" atl="Add Class" /%}
 {% callout type="warning" title="Quiz Validation" %}
 When you publish a quiz, we will run validation to make sure the quiz meets certain criteria. There are 2 errors that we see commonly. **Correct answer index must be set for multiple-choice** - This is caused when you have not selected a correct answer for a question. **Every question must have unique answers** - You cannot have the same possible answer twice on a question. 
 {% /callout %}
